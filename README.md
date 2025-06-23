@@ -6,8 +6,8 @@
   - [TryHackMe Lab](https://github.com/Oluwaseun-Joseph/Credentialed-Vulnerability-Assessment-Lab/tree/main)
 <h2>👨‍💻Certifications:</h2>
 
-- [Microsoft Cybersecurity Profesional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Microsoft Cybersecurity Profesional Certificate](https://www.coursera.org/account/accomplishments/specialization/YB3YADBYZM8R)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC900)](https://learn.microsoft.com/en-us/users/oluwaseunjoseph-0911/credentials/109ccf6983d270e5?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Comptia Cybersecurity Analyst (CYSA+) : In Progress](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [AWS Certified Security Specialty : Planned after CYSA+ ](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
