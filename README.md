@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Credentialed Vulnerability Assessment Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [TryHackMe Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Credentialed Vulnerability Assessment Home Lab](https://github.com/Oluwaseun-Joseph/Credentialed-Vulnerability-Assessment-Lab/tree/main)
+  - [TryHackMe Lab](https://github.com/Oluwaseun-Joseph/Credentialed-Vulnerability-Assessment-Lab/tree/main)
 <h2>👨‍💻Certifications:</h2>
 
 - [Microsoft Cybersecurity Profesional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
